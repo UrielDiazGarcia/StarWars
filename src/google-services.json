@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505225673579",
+    "firebase_url": "https://examen2udiazfb.firebaseio.com",
+    "project_id": "examen2udiazfb123",
+    "storage_bucket": "examen2udiazfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505225673579:android:f667dde5baad5f92",
+        "android_client_info": {
+          "package_name": "Star.Wars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505225673579-vqb6qunicm718n1a99h6phv68dndn3j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeIIfc0L4adbyEpa-adat59KN85nXUcHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505225673579-vqb6qunicm718n1a99h6phv68dndn3j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
